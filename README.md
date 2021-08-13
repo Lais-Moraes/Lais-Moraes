@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lais-Moraes
 - ✨ I’m interested in to develop
 - 👀 I’m currently learning systems development
-- 💞️ I’m looking to collaborate on front-end
+
 
 
 <!---
